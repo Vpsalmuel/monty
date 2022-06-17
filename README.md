@@ -1,1 +1,2 @@
-created files for the monty project
+My first readme
+this is a file for ALX course
